@@ -1,130 +1,212 @@
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cn.corestar@gmail.com)](mailto:cn.corestar@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-3495eb?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/proengindev)](https://t.me/proengindev)
-
-<h1 align="center">
-  <strong>
-    Full-stack Developer - Web • Mobile • Blockchain
-  </strong>
-</h2>
-
-<h3><strong>🖋️ SUMMARY</strong></h3>
-  <ul>
-    <p>
-      Experienced software engineer with experience in working with AGILE development methodologies such as Kanban and Scrum. I can work on projects in a team environment with our corporate partners, and at the same time, as an individual freelancer, I can work directly with clients in a private environment. I have a bachelor's degree in computer science and own the most in-demand programming skills in the job market. I can be described as a team player, adaptable, a challenge seeker, and a natural problem solver, and contribute to success based on strong communication and interpersonal skills. 
-    </p>
-  </ul>
-
-<h3><strong>📈 STATS</strong></h3>
-      
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodevcn&hide=TeX&layout=compact&theme=tokyonight)
-
-<h3><strong>🛠️ EXPERTISE</strong></h3>
-  <ul>
-    <li>Developing web front-end, back-end, and RESTful API</li>
-    <li>Developing hybrid mobile applications with a clean and attractive designs.</li>
-    <li>Programming solidity and rust for smart contracts that would be deployed to EVM chains and the Solana network. </li>
-  </ul>
-
-<h3><strong>🪄 SPECIALIZATION</strong></h3>
-  <ul>
-    <li>SPA frameworks (React, Angular, Vue)</li>
-    <li>React Native, Flutter, and Ionic development</li>
-    <li>RESTful API and microservice development</li>
-    <li>NFT marketplace, TokenSwap, wallets, trading bot development</li>
-  </ul>
-
-<h3><strong>⚙️ SKILL SET</strong></h3>
-  <table width="100%" style="border: 1px solid">
-    <thead align="center">
-      <tr style="border: 1px solid">
-        <td style="border: 1px solid">Language</td>
-        <td style="border: 1px solid">Frontend</td>
-        <td style="border: 1px solid">Backend</td>
-        <td style="border: 1px solid">Database</td>
-        <td style="border: 1px solid">Mobile</td>
-        <td style="border: 1px solid">Cloud</td>
-        <td style="border: 1px solid">Blockchain</td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td valign="top" style="border: 1px solid">
-          <ul>
-            <li>Go</li>
-            <li>JavaScript</li>
-            <li>Java</li>
-            <li>Python</li>
-            <li>Ruby</li>
-            <li>Rust</li>
-            <li>Solidity</li>
-            <li>Swift</li>
-            <li>TypeScript</li>
-          </ul>
-        </td>
-         <td valign="top" style="border: 1px solid">
-          <ul>
-            <li>Angular</li>
-            <li>React</li>
-            <li>Nextjs</li>
-            <li>Vue.js</li>
-            <li>Electron</li>
-            <li>Svelte</li>
-          </ul>
-        </td>
-         <td valign="top" style="border: 1px solid">
-          <ul>
-            <li>node.js</li>
-            <li>PHP</li>
-            <li>Express.js</li>
-            <li>Nest.js</li>
-            <li>Laravel</li>
-            <li>Django</li>
-            <li>.NET</li>
-            <li>Rails</li>
-          </ul>
-        </td>
-         <td valign="top" style="border: 1px solid">
-          <ul>
-            <li>MySQL</li>
-            <li>PostgreSQL</li>
-            <li>MongoDB</li>
-            <li>Oracle</li>
-            <li>Redis</li>
-          </ul>
-        </td>
-        <td valign="top" style="border: 1px solid">
-          <ul>
-            <li>Android</li>
-            <li>iOS</li>
-            <li>React Native</li>
-            <li>Flutter</li>
-            <li>Ionic</li>
-          </ul>
-        </td>
-        <td valign="top" style="border: 1px solid">
-          <ul>
-            <li>AWS</li>
-            <li>Firebase</li>
-            <li>GCP</li>
-            <li>Microsoft Azure</li>
-          </ul>
-        </td>
-        <td valign="top" style="border: 1px solid">
-          <ul>
-            <li>Truffle</li>
-            <li>Hashnet</li>
-            <li>Anchor</li>
-            <li>Openzeppelin</li>
-            <li>Substrate</li>
-            <li>TheGraph</li>
-            <li>Chainlink</li>
-          </ul>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=19E9EEEE&background=20FF3400&center=true&vCenter=true&width=710&lines=Full+stack+%7C+AI+Automation+%7C+Blockchain+;ML+Engineer+%7C+Ticketmaster+%7C+AIO+%7C+Discord+Bot)](https://git.io/typing-svg)
+<br/><br/>
+<h2>👋 About Me</h2>
+<p>
+  <strong>Full-Stack Developer</strong> & <strong>Automation Engineer</strong> & <strong>Blockchain Engineer</strong> specializing in <strong>AI-powered tools</strong>, <strong>web scraping</strong>, </p> <p><strong>bot development</strong>, <strong>Chrome extensions</strong>, and <strong>DeFi</strong>.</p>
+<p>
+  Turning ideas into production-ready software with clean code, performance, and scalability in mind.<br/>
+  <em>Python & JavaScript & Solidity are my main weapons 🚀</em>
 </p>
-<br />
+<br/>
+<div style="border:1px solid #999; padding:20px; border-radius:8px; text-align:center;">
+  <p>
+    Results-driven Software Engineer with strong experience in Agile methodologies, including Scrum and Kanban. Proven track record of delivering scalable solutions in both team-based corporate environments and independent freelance projects.<br /><br/>Holds a Bachelor’s degree in Computer Science with expertise across modern, in-demand technologies spanning web, mobile, and backend development. Recognized for strong problem-solving abilities, adaptability, and effective collaboration. Committed to delivering high-quality solutions through clear communication and a proactive approach.
+  </p>
+</div>
+
+<!-- Tech stack icons -->
+<h3 style="display:flex; justify-content:center; align-items:center; gap:16px;"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" /><strong>Skills & Tools</strong></h3>
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" />
+      <p>Python</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="js" />
+      <p>JavaScript</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="solidity" />
+      <p>Solidity</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="go" />
+      <p>Go</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="rust" />
+      <p>Rust</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+      <p>Dart</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="cpp" />
+      <p>C++</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
+      <p>PHP</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
+      <p>React</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="angular" />
+      <p>Angular</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
+      <p>Vue</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="svelte" />
+      <p>Svelte</p>
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <p>HTML</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <p>CSS</p>
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <p>Bootstrap</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <p>Tailwind</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="django" />
+      <p>Django</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
+      <p>Express</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" />
+      <p>Flask</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
+      <p>Laravel</p>
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="nestjs" />
+      <p>NestJS</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="postgresql" />
+      <p>PostgreSQL</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <p>MySQL</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
+      <p>MongoDB</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
+      <p>Redis</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
+      <p>Java</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="swift" />
+      <p>Swift</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="flutter" />
+      <p>Flutter</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="kotlin" />
+      <p>Kotlin</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
+      <p>AWS</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="gcp" />
+      <p>GCP</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
+      <p>Firebase</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
+      <p>GitHub</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="gitllab" />
+      <p>GitLab</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
+      <p>Docker</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aiscript" width="48" height="48" alt="aws" />
+      <p>AI Script</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="tensorflow" />
+      <p>Tensorflow</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bots" width="48" height="48" alt="bots" />
+      <p>Bots</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="jest" />
+      <p>Jest</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
+      <p>Figma</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
+      <p>Postman</p>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="sentry" />
+      <p>Sentry</p>
+    </td>
+  </tr>
+</table>
+
 <h3><strong>🔖 PROJECT</strong></h3>
   <h4><strong>🌐 Web</strong></h4>
     <table align="center" style="border: 1px solid">
@@ -292,3 +374,15 @@
         </tr>
       </tbody>
     </table>
+
+<h2 align="left"><img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time </h2>
+
+<p align="center">
+  <a href="#">
+    <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
+    <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+  </a>
+</p>
+<br>
+
+<p align="center"><img src="./github-contribution-grid-snake.svg"></p>
