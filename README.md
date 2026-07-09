@@ -4,7 +4,7 @@
 <br/><br/>
 <h2>👋 About Me</h2>
 <p>
-  <strong>Full-Stack Developer</strong> & <strong>Automation Engineer</strong> & <strong>Blockchain Engineer</strong> specializing in <strong>AI-powered tools</strong>, <strong>web scraping</strong>, </p> <p><strong>bot development</strong>, <strong>Chrome extensions</strong>, and <strong>DeFi</strong>.</p>
+  <strong>Full-Stack Developer</strong> & <strong>Automation Engineer</strong> & <strong>Mobile</strong> & <strong>Blockchain Engineer</strong> specializing in <strong>AI-powered tools</strong>, <strong>web scraping</strong>, </p> <p><strong>bot development</strong>, <strong>Chrome extensions</strong>, and <strong>DeFi</strong>.</p>
 <p>
   Turning ideas into production-ready software with clean code, performance, and scalability in mind.<br/>
   <em>Python & JavaScript & Solidity are my main weapons 🚀</em>
@@ -209,6 +209,46 @@
 
 <h3><strong>🔖 PROJECT</strong></h3>
   <h4><strong>🌐 Web</strong></h4>
+    <table align="center" style="border: 1px solid">
+      <thead align="center">
+        <tr align="center">
+          <th align="center" style="border: 1px solid">Immersive Fox</th>
+          <th align="center" style="border: 1px solid">Ignite Tournaments</th>
+          <th align="center" style="border: 1px solid">Tilted</th>
+          <th align="center" style="border: 1px solid">Higher Education</th>
+          <th align="center" style="border: 1px solid">LittleMindSatWork</th>
+        </tr>
+      </thead>
+      <tbody align="center">
+        <tr>
+          <td style="border: 1px solid">
+            <a href="https://immersive-fox.com/">
+              <img src="./img/web/immersivefox_web.png" width="200">
+            </a>
+          </td>
+          <td style="border: 1px solid">
+            <a href="https://ignitetournaments.com/">
+              <img src="./img/web/ignitetournaments_web.png" width="200">
+            </a>
+          </td>
+          <td style="border: 1px solid">
+            <a href="https://tilted.xyz/">
+              <img src="./img/web/tilted_web.png" width="200">
+            </a>
+          </td>
+          <td style="border: 1px solid">
+            <a href="https://www.highereducation.shop/">
+              <img src="./img/web/highereducation_web.png" width="200">
+            </a>
+          </td>
+          <td style="border: 1px solid">
+            <a href="https://littlemindsatwork.in/">
+              <img src="./img/web/littlemindsatwork_web.png" width="200">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
     <table align="center" style="border: 1px solid">
       <thead align="center">
         <tr align="center">
